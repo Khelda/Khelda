@@ -15,4 +15,4 @@ A (not so) small project inspired by [Looping] being an absolute moron when I tr
 
 Where to find : [merisedot-dev](https://github.com/merisedot-dev)
 
-[Looping]:
+[Looping]: https://www.looping-mcd.fr/
