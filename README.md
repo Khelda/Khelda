@@ -6,6 +6,7 @@ A small tinkering dev, alone to wander the plains of Github. I do a bunch of Neo
 
 - Editor : [Neovim](https://github.com/Khelda/nvim-config)
 - Shell : [ZSH](https://github.com/Khelda/zshrc.d)
+- Toolchain : [Nix](https://nixos.org)
 
 ## Working on...
 
