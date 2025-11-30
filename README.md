@@ -12,7 +12,9 @@ A small tinkering dev, alone to wander the plains of Github. I do a bunch of Neo
 
 ### MeriseDot
 
-A (not so) small project inspired by [Looping] being an absolute moron when I tried to run it and a lot of spite to make my own database editor, *including compatibility* with [Looping]. Still a work in progress though, no GUI in the works for now. At least, not yet.
+A (not so) small project inspired by [Looping] being an absolute moron when I tried to run it and a lot of spite to make my own database editor, *including compatibility* with [Looping]. Still a work in progress though, the library has just been finished (for a first reliable version).
+
+A GUI is also in the works, GTK will be the tech of choice for it. More info in the dedicated repository, installation will come after a viable build has been built.
 
 Where to find : [merisedot-dev](https://github.com/merisedot-dev)
 
